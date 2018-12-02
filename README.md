@@ -32,7 +32,7 @@ class App extends React.Component {
   render() {
     return (
       <section>
-        <h1>Start Wars Search</h1>
+        <h1>Star Wars Search</h1>
         <input
           placeholder="Yoda"
           value={this.state.name}
